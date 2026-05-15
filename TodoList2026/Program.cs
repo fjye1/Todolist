@@ -63,4 +63,10 @@ void PrintSelectedOption(string selectedOption, string userinput)
 int Add (int a, int b)
 {
     return a + b;
-}
+
+
+/*terminal commands 
+dotnet run "run the program make sure pointed at folder that contains .csproj extention"
+dotnet build "build the application without running it" 
+dotnet new class -n MyNewClass "create a new file for this class" 
+*/
